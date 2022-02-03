@@ -2,9 +2,6 @@
 <html dir = "rtl">
     <head>
 	<meta name = "keywords" content = "html">
-        <title>
-	        معلومات عن لغة البرمجة HTML
-        </title>
 		<style>
             body{
 			background-color : #f0f0f0;
